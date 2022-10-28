@@ -122,3 +122,6 @@ def likes(request, article_pk):
         return redirect('articles:index')
     return redirect('accounts:login')
     
+
+
+## 주석 추가
